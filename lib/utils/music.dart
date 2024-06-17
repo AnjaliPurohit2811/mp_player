@@ -1,0 +1,92 @@
+List musicList = [
+  {
+    'title' : 'Dil se Dil tak',
+    'subtitle' : ' Akashdeep Sengupta',
+    'image' : 'asset/img/dil.png',
+    'music' : 'asset/audio/dil se dil tak.mp3',
+  },
+  {
+    'title' : 'Dildariyan',
+    'subtitle' : 'Kambi Rajpuria',
+    'image' : 'asset/img/dildariyan.png',
+    'music' : 'asset/audio/Dildarian.mp3',
+  },
+  {
+    'title' : 'Hariyala Banna',
+    'subtitle' : ' Kamal Choudhary',
+    'image' : 'asset/img/banna.png',
+    'music' : 'asset/audio/hariyala banna.mp3',
+  },
+  {
+    'title' : 'Humraah',
+    'subtitle' : ' Sachet Tandon',
+    'image' : 'asset/img/humraah.png',
+    'music' : 'asset/audio/humraah.mp3',
+  },
+  {
+    'title' : 'Kalank',
+    'subtitle' : 'Arijit Singh',
+    'image' : 'asset/img/kalank.png',
+    'music' : 'asset/audio/kalank.mp3',
+  },
+  {
+    'title' : 'Kurja',
+    'subtitle' : 'Moti Khan',
+    'image' : 'asset/img/kurja.png',
+    'music' : 'asset/audio/kurja.mp3',
+  },
+  {
+    'title' : 'Laal Pili Ankhiyan',
+    'subtitle' : 'Mame Khan',
+    'image' : 'asset/img/laal.png',
+    'music' : 'asset/audio/laal pili.mp3',
+  },
+  {
+    'title' : 'Mere Liye',
+    'subtitle' : 'Akhil Sachdeva',
+    'image' : 'asset/img/mere liye.png',
+    'music' : 'asset/audio/mere liye.mp3',
+  },
+  {
+    'title' : 'Mitho Lage',
+    'subtitle' : 'Mame Khan ',
+    'image' : 'asset/img/mitho lage.png',
+    'music' : 'asset/audio/mitho lage.mp3',
+  },
+  {
+    'title' : 'Nain Katrani',
+    'subtitle' : 'Jalal Khan',
+    'image' : 'asset/img/nain.png',
+    'music' : 'asset/audio/nain katrani.mp3',
+  },
+  {
+    'title' : 'Oji Re Diwana',
+    'subtitle' : 'Chitralekha Sen',
+    'image' : 'asset/img/oji re diwana.png',
+    'music' : 'asset/audio/oji re diwana.mp3',
+  },
+  {
+    'title' : 'Safar',
+    'subtitle' : 'Juss x MixSingh',
+    'image' : 'asset/img/safar.png',
+    'music' : 'asset/audio/safar.mp3',
+  },
+  {
+    'title' : 'Sajni',
+    'subtitle' : 'Arijit Singh',
+    'image' : 'asset/img/sajni.png',
+    'music' : 'asset/audio/sajni.mp3',
+  },
+  {
+    'title' : 'Tum Prem Ho',
+    'subtitle' : 'Mohit Lalwani',
+    'image' : 'asset/img/radhe.png',
+    'music' : 'asset/audio/tum prem ho.mp3',
+  },
+  {
+    'title' : 'Ve Hanniyan',
+    'subtitle' : 'Danny',
+    'image' : 'asset/img/ve hanniyan.png',
+    'music' : 'asset/audio/ve hanniyan.mp3',
+  },
+];
